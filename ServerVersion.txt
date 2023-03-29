@@ -36,5 +36,5 @@
             "removeFolders": []
         }
     ],
-    "searchIndex": 0
+    "gameVersion": "2.4.2"
 }
