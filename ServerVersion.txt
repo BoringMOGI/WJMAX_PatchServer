@@ -1,0 +1,47 @@
+{
+    "patchList": [
+        {
+            "bundleName": "music_1",
+            "size": 2120246278,
+            "bundleVersion": 1,
+            "applyVersion": 0,
+            "removeFolders": []
+        },
+        {
+            "bundleName": "music_2",
+            "size": 1539280966,
+            "bundleVersion": 1,
+            "applyVersion": 1,
+            "removeFolders": []
+        },
+        {
+            "bundleName": "music_3",
+            "size": 1516230682,
+            "bundleVersion": 1,
+            "applyVersion": 2,
+            "removeFolders": []
+        },
+        {
+            "bundleName": "music_4",
+            "size": 1014534617,
+            "bundleVersion": 1,
+            "applyVersion": 3,
+            "removeFolders": []
+        },
+        {
+            "bundleName": "music_5",
+            "size": 340768579,
+            "bundleVersion": 1,
+            "applyVersion": 4,
+            "removeFolders": []
+        },
+        {
+            "bundleName": "music_6",
+            "size": 391497209,
+            "bundleVersion": 2,
+            "applyVersion": 5,
+            "removeFolders": []
+        }
+    ],
+    "gameVersion": "2.4.2"
+}
