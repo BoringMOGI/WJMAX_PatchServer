@@ -39,10 +39,9 @@
             "bundleName": "music_6",
             "size": 391497209,
             "bundleVersion": 2,
-            "applyVersion": 5,
+            "applyVersion": 4,
             "removeFolders": []
         }
     ],
-    "gameVersion": "2.4.2",
     "clientVersoin": 1
 }
