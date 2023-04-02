@@ -43,5 +43,5 @@
             "removeFolders": []
         }
     ],
-    "clientVersoin": 1
+    "clientVersoin": 2
 }
