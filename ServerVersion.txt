@@ -38,7 +38,7 @@
         {
             "bundleName": "music_6",
             "size": 69460235,
-            "bundleVersion": 3,
+            "bundleVersion": 4,
             "applyVersion": 6,
             "removeFolders": [
                 "Wakgood - Master remix",
@@ -49,5 +49,5 @@
             ]
         }
     ],
-    "clientVersoin": 2
+    "clientVersoin": 3
 }
