@@ -33,20 +33,20 @@
             "size": 859491686,
             "bundleVersion": 1,
             "applyVersion": 4,
-            "removeFolders": []
+            "removeFolders": [
+ 	"Wakgood - Master remix",
+                "Wakgood - Waklio",
+                "ZTC - Lie Difficulty Remix",
+                "ZTC - Only You",
+                "ZTC - WJMAX BGM Medley"
+	]
         },
         {
             "bundleName": "music_6",
             "size": 69460235,
             "bundleVersion": 4,
             "applyVersion": 6,
-            "removeFolders": [
-                "Wakgood - Master remix",
-                "Wakgood - Waklio",
-                "ZTC - Lie Difficulty Remix",
-                "ZTC - Only You",
-                "ZTC - WJMAX BGM Medley"
-            ]
+            "removeFolders": []
         }
     ],
     "clientVersoin": 3
