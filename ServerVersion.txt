@@ -45,7 +45,7 @@
         {
             "bundleName": "music_6",
             "size": 502649982,
-            "bundleVersion": 6,
+            "bundleVersion": 7,
             "applyVersion": 7,
             "removeFolders": []
         }
