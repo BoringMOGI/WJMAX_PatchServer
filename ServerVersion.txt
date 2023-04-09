@@ -34,11 +34,12 @@
             "bundleVersion": 1,
             "applyVersion": 4,
             "removeFolders": [
- 	"Wakgood - Master remix",
+ 	  "Wakgood - Master remix",
                 "Wakgood - Waklio",
                 "ZTC - Lie Difficulty Remix",
                 "ZTC - Only You",
-                "ZTC - WJMAX BGM Medley"
+                "ZTC - WJMAX BGM Medley",
+	  "ZTC1 - Counting Stars",
 	]
         },
         {
