@@ -30,25 +30,26 @@
         },
         {
             "bundleName": "music_5",
-            "size": 859491686,
-            "bundleVersion": 1,
+            "size": 928896837,
+            "bundleVersion": 2,
             "applyVersion": 4,
             "removeFolders": [
- 	  "Wakgood - Master remix",
+                "Wakgood - Master remix",
                 "Wakgood - Waklio",
                 "ZTC - Lie Difficulty Remix",
                 "ZTC - Only You",
                 "ZTC - WJMAX BGM Medley",
-	  "ZTC1 - Counting Stars",
-	]
+                "ZTC1 - Counting Stars"
+            ]
         },
         {
             "bundleName": "music_6",
-            "size": 69460235,
-            "bundleVersion": 4,
-            "applyVersion": 6,
+            "size": 502649982,
+            "bundleVersion": 5,
+            "applyVersion": 7,
             "removeFolders": []
         }
     ],
-    "clientVersoin": 3
+    "clientVersoin": 4,
+    "patchUrl": "https://cafe.naver.com/steamindiegame/10707416"
 }
