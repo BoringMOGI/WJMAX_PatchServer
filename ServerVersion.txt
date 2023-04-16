@@ -52,7 +52,7 @@
         {
             "bundleName": "music_7",
             "size": 263226455,
-            "bundleVersion": 1,
+            "bundleVersion": 2,
             "applyVersion": 8,
             "removeFolders": []
         }
