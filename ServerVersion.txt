@@ -51,12 +51,12 @@
         },
         {
             "bundleName": "music_7",
-            "size": 352847625,
-            "bundleVersion": 3,
+            "size": 679576444,
+            "bundleVersion": 4,
             "applyVersion": 8,
             "removeFolders": []
         }
     ],
-    "versionClient": 3,
-    "patchUrl": "https://cafe.naver.com/steamindiegame/10794312"
+    "versionClient": 4,
+    "patchUrl": "https://cafe.naver.com/steamindiegame/10891915"
 }
