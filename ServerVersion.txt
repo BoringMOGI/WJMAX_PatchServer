@@ -9,7 +9,7 @@
         },
         {
             "bundleName": "music_2",
-            "size": 1539280966,
+            "size": 1451388638,
             "bundleVersion": 1,
             "applyVersion": 1,
             "removeFolders": []
@@ -58,7 +58,7 @@
         },
         {
             "bundleName": "music_8",
-            "size": 1115796403,
+            "size": 947042053,
             "bundleVersion": 3,
             "applyVersion": 10,
             "removeFolders": [
@@ -67,8 +67,8 @@
         },
         {
             "bundleName": "music_9",
-            "size": 22569525,
-            "bundleVersion": 2,
+            "size": 279320267,
+            "bundleVersion": 3,
             "applyVersion": 10,
             "removeFolders": []
         }
