@@ -58,12 +58,14 @@
         },
         {
             "bundleName": "music_8",
-            "size": 487394773,
-            "bundleVersion": 2,
-            "applyVersion": 9,
-            "removeFolders": []
+            "size": 1115796403,
+            "bundleVersion": 3,
+            "applyVersion": 10,
+            "removeFolders": [
+                "Wakgood - Ahoy"
+            ]
         }
     ],
-    "versionClient": 19,
-    "patchUrl": "https://cafe.naver.com/steamindiegame/11099761"
+    "versionClient": 20,
+    "patchUrl": "https://cafe.naver.com/steamindiegame/11194344"
 }
