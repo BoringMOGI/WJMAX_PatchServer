@@ -66,6 +66,6 @@
             ]
         }
     ],
-    "versionClient": 20,
+    "versionClient": 21,
     "patchUrl": "https://cafe.naver.com/steamindiegame/11194344"
 }
