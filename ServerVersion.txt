@@ -64,6 +64,13 @@
             "removeFolders": [
                 "Wakgood - Ahoy"
             ]
+        },
+        {
+            "bundleName": "music_9",
+            "size": 22280773,
+            "bundleVersion": 1,
+            "applyVersion": 10,
+            "removeFolders": []
         }
     ],
     "versionClient": 21,
