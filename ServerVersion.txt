@@ -68,11 +68,11 @@
         {
             "bundleName": "music_9",
             "size": 795977829,
-            "bundleVersion": 8,
+            "bundleVersion": 9,
             "applyVersion": 12,
             "removeFolders": []
         }
     ],
-    "versionClient": 25,
+    "versionClient": 26,
     "patchUrl": "https://cafe.naver.com/steamindiegame/11262615"
 }
