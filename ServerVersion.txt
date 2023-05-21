@@ -73,6 +73,6 @@
             "removeFolders": []
         }
     ],
-    "versionClient": 26,
+    "versionClient": 28,
     "patchUrl": "https://cafe.naver.com/steamindiegame/11262615"
 }
