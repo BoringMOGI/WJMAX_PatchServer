@@ -1,0 +1,92 @@
+{
+    "patchList": [
+        {
+            "bundleName": "music_1",
+            "size": 2120246278,
+            "bundleVersion": 1,
+            "applyVersion": 0,
+            "removeFolders": []
+        },
+        {
+            "bundleName": "music_2",
+            "size": 1451388638,
+            "bundleVersion": 1,
+            "applyVersion": 1,
+            "removeFolders": []
+        },
+        {
+            "bundleName": "music_3",
+            "size": 1485628132,
+            "bundleVersion": 1,
+            "applyVersion": 2,
+            "removeFolders": []
+        },
+        {
+            "bundleName": "music_4",
+            "size": 862211240,
+            "bundleVersion": 1,
+            "applyVersion": 3,
+            "removeFolders": []
+        },
+        {
+            "bundleName": "music_5",
+            "size": 928896837,
+            "bundleVersion": 3,
+            "applyVersion": 4,
+            "removeFolders": [
+                "Wakgood - Master remix",
+                "Wakgood - Waklio",
+                "ZTC - Lie Difficulty Remix",
+                "ZTC - Only You",
+                "ZTC - WJMAX BGM Medley",
+                "ZTC1 - Counting Stars"
+            ]
+        },
+        {
+            "bundleName": "music_6",
+            "size": 502649982,
+            "bundleVersion": 7,
+            "applyVersion": 7,
+            "removeFolders": []
+        },
+        {
+            "bundleName": "music_7",
+            "size": 1106789247,
+            "bundleVersion": 5,
+            "applyVersion": 9,
+            "removeFolders": []
+        },
+        {
+            "bundleName": "music_8",
+            "size": 896598633,
+            "bundleVersion": 3,
+            "applyVersion": 10,
+            "removeFolders": [
+                "Wakgood - Ahoy"
+            ]
+        },
+        {
+            "bundleName": "music_9",
+            "size": 1418219023,
+            "bundleVersion": 11,
+            "applyVersion": 12,
+            "removeFolders": []
+        },
+        {
+            "bundleName": "music_10",
+            "size": 1190786439,
+            "bundleVersion": 5,
+            "applyVersion": 15,
+            "removeFolders": []
+        },
+        {
+            "bundleName": "music_11",
+            "size": 2425455,
+            "bundleVersion": 1,
+            "applyVersion": 15,
+            "removeFolders": []
+        }
+    ],
+    "versionClient": 50,
+    "patchUrl": "https://cafe.naver.com/steamindiegame/11527390"
+}
