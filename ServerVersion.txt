@@ -88,5 +88,5 @@
         }
     ],
     "versionClient": 58,
-    "patchUrl": "https://cafe.naver.com/steamindiegame/11681769"
+    "patchUrl": "https://cafe.naver.com/steamindiegame/11787365"
 }
