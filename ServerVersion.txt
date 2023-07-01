@@ -85,6 +85,13 @@
             "bundleVersion": 5,
             "applyVersion": 17,
             "removeFolders": []
+        },
+        {
+            "bundleName": "music_12",
+            "size": 53612,
+            "bundleVersion": 1,
+            "applyVersion": 17,
+            "removeFolders": []
         }
     ],
     "versionClient": 60,
