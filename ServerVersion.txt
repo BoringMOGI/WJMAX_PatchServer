@@ -81,12 +81,12 @@
         },
         {
             "bundleName": "music_11",
-            "size": 711525952,
-            "bundleVersion": 4,
-            "applyVersion": 16,
+            "size": 1487530237,
+            "bundleVersion": 5,
+            "applyVersion": 17,
             "removeFolders": []
         }
     ],
-    "versionClient": 59,
-    "patchUrl": "https://cafe.naver.com/steamindiegame/11787365"
+    "versionClient": 60,
+    "patchUrl": "https://cafe.naver.com/steamindiegame/11831881"
 }
